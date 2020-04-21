@@ -1,7 +1,6 @@
 from enum import IntFlag
 from itertools import combinations
 from collections import Sequence
-from functools import reduce
 
 class Bitstates(Sequence):
     """
